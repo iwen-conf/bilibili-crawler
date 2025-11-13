@@ -1,4 +1,4 @@
-module bilibili_crawler
+module github.com/iwen-conf/bilibili_crawler
 
 go 1.25.4
 
