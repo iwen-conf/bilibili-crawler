@@ -1,6 +1,6 @@
 module github.com/iwen-conf/bilibili-crawler
 
-go 1.25.4
+go 1.24.0
 
 require github.com/PuerkitoBio/goquery v1.10.3
 
